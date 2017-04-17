@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="nosetests" tests="28" errors="1" failures="8" skip="0"><testcase classname="test1.MyTest" name="test_pass" time="0.000"></testcase><testcase classname="test2.MyTest" name="test_fail" time="0.000"><failure type="exceptions.AssertionError" message=""><![CDATA[Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.3/lib/python2.7/unittest/case.py", line 327, in run
+    testMethod()
+  File "/Users/rick446/src/FastTrackToPython/19-Testing/test2.py", line 6, in test_fail
+    assert False
+AssertionError
+]]></failure></testcase><testcase classname="test2.MyTest" name="test_fail_message" time="0.000"><failure type="exceptions.AssertionError" message="This is an assertion message"><![CDATA[Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.3/lib/python2.7/unittest/case.py", line 327, in run
+    testMethod()
+  File "/Users/rick446/src/FastTrackToPython/19-Testing/test2.py", line 9, in test_fail_message
+    assert False, 'This is an assertion message'
+AssertionError: This is an assertion message
+]]></failure></testcase><testcase classname="test3.MyTest" name="test_one_and_one" time="0.000"></testcase><testcase classname="test3.MyTest" name="test_one_and_one_fail" time="0.000"><failure type="exceptions.AssertionError" message="2 != 4"><![CDATA[Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.3/lib/python2.7/unittest/case.py", line 327, in run
+    testMethod()
+  File "/Users/rick446/src/FastTrackToPython/19-Testing/test3.py", line 10, in test_one_and_one_fail
+    self.assertEqual(simple_math.add(1, 1), 4)
+  File "/usr/local/Cellar/python/2.7.3/lib/python2.7/unittest/case.py", line 511, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "/usr/local/Cellar/python/2.7.3/lib/python2.7/unittest/case.py", line 504, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 4
+]]></failure></testcase><testcase classname="test3.MyTest" name="test_one_and_one_fail_assert" time="0.000"><failure type="exceptions.AssertionError" message=""><![CDATA[Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.3/lib/python2.7/unittest/case.py", line 327, in run
+    testMethod()
+  File "/Users/rick446/src/FastTrackToPython/19-Testing/test3.py", line 13, in test_one_and_one_fail_assert
+    assert simple_math.add(1,1) == 4
+AssertionError
+]]></failure></testcase><testcase classname="test4.MyTest" name="test_one_and_one" time="0.000"></testcase><testcase classname="test4.MyTest" name="test_one_and_one_alt" time="0.000"></testcase><testcase classname="test5.MyTest" name="test_also_fail" time="0.000"><failure type="exceptions.AssertionError" message=""><![CDATA[Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.3/lib/python2.7/unittest/case.py", line 327, in run
+    testMethod()
+  File "/Users/rick446/src/FastTrackToPython/19-Testing/test5.py", line 12, in test_also_fail
+    raise AssertionError
+AssertionError
+]]></failure></testcase><testcase classname="test5.MyTest" name="test_error" time="0.000"><error type="exceptions.ValueError" message=""><![CDATA[Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.3/lib/python2.7/unittest/case.py", line 327, in run
+    testMethod()
+  File "/Users/rick446/src/FastTrackToPython/19-Testing/test5.py", line 15, in test_error
+    raise ValueError
+ValueError
+]]></error></testcase><testcase classname="test5.MyTest" name="test_fail" time="0.000"><failure type="exceptions.AssertionError" message=""><![CDATA[Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.3/lib/python2.7/unittest/case.py", line 327, in run
+    testMethod()
+  File "/Users/rick446/src/FastTrackToPython/19-Testing/test5.py", line 9, in test_fail
+    assert False
+AssertionError
+]]></failure></testcase><testcase classname="test5.MyTest" name="test_pass" time="0.000"></testcase><testcase classname="test6.MyTest" name="test_add" time="0.000"></testcase><testcase classname="test6.MyTest" name="test_divide" time="0.000"></testcase><testcase classname="test6.MyTest" name="test_multiply" time="0.000"></testcase><testcase classname="test6.MyTest" name="test_subtract" time="0.000"></testcase><testcase classname="test7.MyTest" name="test_docstring" time="0.000"></testcase><testcase classname="test7.MyTest" name="test_docstring_fail" time="0.000"><failure type="exceptions.AssertionError" message=""><![CDATA[Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.3/lib/python2.7/unittest/case.py", line 327, in run
+    testMethod()
+  File "/Users/rick446/src/FastTrackToPython/19-Testing/test7.py", line 14, in test_docstring_fail
+    assert False
+AssertionError
+]]></failure></testcase><testcase classname="test7.MyTest" name="test_no_docstring" time="0.000"></testcase><testcase classname="test7.MyTest" name="test_no_docstring_fail" time="0.000"><failure type="exceptions.AssertionError" message=""><![CDATA[Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.3/lib/python2.7/unittest/case.py", line 327, in run
+    testMethod()
+  File "/Users/rick446/src/FastTrackToPython/19-Testing/test7.py", line 17, in test_no_docstring_fail
+    assert False
+AssertionError
+]]></failure></testcase><testcase classname="test8.MyTest" name="test_send_recv" time="0.000"></testcase><testcase classname="test_directory.TestEmptyDirectory" name="test_add_number" time="0.000"></testcase><testcase classname="test_directory.TestEmptyDirectory" name="test_lookup_unknown_number" time="0.000"></testcase><testcase classname="test_directory.TestEmptyDirectory" name="test_remove_unknown_number" time="0.000"></testcase><testcase classname="test_directory.TestEmptyDirectory" name="test_repr_has_two_lines" time="0.000"></testcase><testcase classname="test_directory.TestNonemptyDirectory" name="test_lookup_number" time="0.000"></testcase><testcase classname="test_directory.TestNonemptyDirectory" name="test_remove_number" time="0.000"></testcase><testcase classname="test_directory.TestNonemptyDirectory" name="test_repr_has_three_lines" time="0.000"></testcase></testsuite>
