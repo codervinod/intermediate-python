@@ -1,0 +1,1627 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Op",
+				"OptimizeSQSCollector"
+			],
+			[
+				"Optim",
+				"OptimizeSQSWorker"
+			],
+			[
+				"OptimizeSQL",
+				"OptimizeSQSVentilator"
+			],
+			[
+				"Sim",
+				"SimLambda"
+			],
+			[
+				"G",
+				"GenerateSupplyModel"
+			],
+			[
+				"Cla",
+				"ClassifyItemSupply"
+			],
+			[
+				"rec",
+				"receipt_date"
+			],
+			[
+				"sb",
+				"sb-data-download"
+			],
+			[
+				"Not",
+				"NotEnoughMarginError"
+			],
+			[
+				"daily_",
+				"daily_alpha_count"
+			],
+			[
+				"ser",
+				"service_level_qty"
+			],
+			[
+				"service_le",
+				"service_level_qty"
+			],
+			[
+				"servi",
+				"service_level_order"
+			],
+			[
+				"simul",
+				"simulation"
+			],
+			[
+				"transi",
+				"transition_matrix_from_receipt_query"
+			],
+			[
+				"warn",
+				"warn_on_error"
+			],
+			[
+				"txn",
+				"txns_12mo_preceding"
+			],
+			[
+				"sale",
+				"sales_orders"
+			],
+			[
+				"sa",
+				"sales_item_iter"
+			],
+			[
+				"mon",
+				"monthly_smoothing"
+			],
+			[
+				"init",
+				"initial_stock"
+			],
+			[
+				"sc",
+				"scenario_model"
+			],
+			[
+				"lead_",
+				"lead_time_model"
+			],
+			[
+				"order_cou",
+				"order_count_from_stock"
+			],
+			[
+				"clus",
+				"cluster_centers_"
+			],
+			[
+				"clu",
+				"cluster_centers_"
+			],
+			[
+				"oldes",
+				"oldest-txn"
+			],
+			[
+				"old",
+				"oldest-txn"
+			],
+			[
+				"_rep",
+				"_report_foreign_key_violation"
+			],
+			[
+				"fix",
+				"fk_fix_function"
+			],
+			[
+				"purchase_o",
+				"purchase_orders_mapping"
+			],
+			[
+				"item_pr",
+				"item_pricing_mapping"
+			],
+			[
+				"purch",
+				"purchase_orders_mapping"
+			],
+			[
+				"pur",
+				"purchase_orders_mapping"
+			],
+			[
+				"valid_i",
+				"valid_item_pricing_data"
+			],
+			[
+				"faci",
+				"facility_key"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"drop_",
+				"drop_shipper_key"
+			],
+			[
+				"drop_ship",
+				"drop_shippers"
+			],
+			[
+				"facil",
+				"facility_key"
+			],
+			[
+				"_extra",
+				"_extract_index_keys"
+			],
+			[
+				"_traverse_",
+				"_traverse_doc_all"
+			],
+			[
+				"assura",
+				"assurance_id"
+			],
+			[
+				"suba",
+				"subaffiliate_id"
+			],
+			[
+				"prope",
+				"properties"
+			],
+			[
+				"SalesFo",
+				"SalesForceError"
+			],
+			[
+				"s",
+				"subaffiliate"
+			],
+			[
+				"Sale",
+				"SalesForceError"
+			],
+			[
+				"aff",
+				"affiliate_id"
+			],
+			[
+				"add",
+				"addresses"
+			],
+			[
+				"up",
+				"update_partial"
+			],
+			[
+				"camp",
+				"campaignAbuseReports"
+			],
+			[
+				"charge_ids",
+				"charge_ids_by_fingerprint"
+			],
+			[
+				"kaji",
+				"kajiki_directory_path"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"list_",
+				"list_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/rick446/src/Classes/Nutanix-AdvancedPython/examples/Networking/cgi-bin/bash_example.sh",
+			"settings":
+			{
+				"buffer_size": 50,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "examples/Testing/test4.py",
+			"settings":
+			{
+				"buffer_size": 569,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "examples/Testing/test7.py",
+			"settings":
+			{
+				"buffer_size": 448,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/rick446/src/Classes/Nutanix-AdvancedPython/ptest.py",
+			"settings":
+			{
+				"buffer_size": 543,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "move",
+		"selected_items":
+		[
+			[
+				"move",
+				"Package Control: Remove Channel"
+			],
+			[
+				"revert",
+				"File: Revert"
+			],
+			[
+				"proj",
+				"Project: Add Folder"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"flake8",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"linter",
+				"SublimeLinter: Reset"
+			],
+			[
+				"sublimelin",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"flake",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"settings",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pref",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"cas",
+				"Convert Case: Lower Case"
+			],
+			[
+				"convert",
+				"Convert Case: Lower Case"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"bill",
+				"Build: Build"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Python",
+				"Set Syntax: Python"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"fol",
+				"Code Folding: Unfold All"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"pyton",
+				"Set Syntax: Python"
+			],
+			[
+				"togg",
+				"Toggle Comment"
+			],
+			[
+				"",
+				"Code Folding: Unfold All"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"gist:u",
+				"Gist: Update File"
+			],
+			[
+				"gist",
+				"Gist: Open Gist in Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"channel",
+				"Package Control: Add Channel"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"gist:",
+				"Gist: Open Gist"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"open ",
+				"Gist: Open Gist"
+			],
+			[
+				"snip",
+				"Snippet: New Class"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"docb",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git:com",
+				"Git: Commit"
+			],
+			[
+				"git:a",
+				"Git: Add..."
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git:s",
+				"Git: Status"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"crea",
+				"Gist: Create Public Gist"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git:add",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"github",
+				"Github: Blame"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 229.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Testing",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Threading",
+		"/Users/rick446/src/Classes/Nutanix-AdvancedPython",
+		"/Users/rick446/src/Classes/Nutanix-AdvancedPython/examples",
+		"/Users/rick446/src/Classes/Nutanix-AdvancedPython/examples/Networking",
+		"/Users/rick446/src/Classes/Nutanix-AdvancedPython/examples/Networking/cgi-bin"
+	],
+	"file_history":
+	[
+		"/Users/rick446/src/Classes/Nutanix-AdvancedPython/ptest.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Networking/cgi-bin/print_json.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Networking/cgi-bin/bash_example",
+		"/Users/rick446/src/Classes/Nutanix-AdvancedPython/gevent-test.py",
+		"/Users/rick446/src/barin/setup.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Testing/simple_math.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/TestDrivenDevelopment/directory.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Networking/cgi-bin/print_request.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Networking/echo_server.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Threading/print_time.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/010-Multiprocessing/print_time.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Threading/queue-test.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Testing/test4.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Testing/test5.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Testing/test8.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Testing/test_directory.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/009-Threading/print_time.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/TestDrivenDevelopment/test1.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Testing/test2.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/Testing/test3.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/examples/TestDrivenDevelopment/test2.py",
+		"/Users/rick446/src/IntermediatePython/009-Threading/print_time.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/010-Multiprocessing/processing1.py",
+		"/Users/rick446/src/Classes/Nutanix-IntermediatePython/010-Multiprocessing/mp-test.py",
+		"/Users/rick446/src/IntermediatePython/FunWithFlask/graphit.py",
+		"/Users/rick446/src/IntermediatePython/FunWithFlask/templates/graph.html",
+		"/Users/rick446/src/IntermediatePython/FunWithFlask/templates/index.html",
+		"/Users/rick446/src/IntermediatePython/010-Multiprocessing/lock1.py",
+		"/Users/rick446/src/IntermediatePython/010-Multiprocessing/processing2.py",
+		"/Users/rick446/src/IntermediatePython/010-Multiprocessing/print_time.py",
+		"/Users/rick446/src/IntermediatePython/011-Networking/cgi-bin/print_json.py",
+		"/Users/rick446/src/IntermediatePython/011-Networking/rest-api.py",
+		"/Users/rick446/src/IntermediatePython/FunWithFlask/ssqs.py",
+		"/Users/rick446/src/IntermediatePython/FunWithFlask/rest-api.py",
+		"/Users/rick446/src/IntermediatePython/009-Threading/error_log_queue.py",
+		"/Users/rick446/src/IntermediatePython/009-Threading/atomic_log.py",
+		"/Users/rick446/src/IntermediatePython/009-Threading/queue-test.py",
+		"/Users/rick446/src/IntermediatePython/009-Threading/event.py",
+		"/Users/rick446/src/IntermediatePython/009-Threading/condition.py",
+		"/Users/rick446/src/IntermediatePython/FunWithFlask/untitled",
+		"/Users/rick446/src/IntermediatePython/009-Threading/threading1.py",
+		"/Users/rick446/src/IntermediatePython/009-Threading/threading2.py",
+		"/Users/rick446/src/IntermediatePython/009-Threading/threading3.py",
+		"/Users/rick446/src/IntermediatePython/009-Threading/lock1.py",
+		"/Users/rick446/src/IntermediatePython/009-Threading/lock2.py",
+		"/Users/rick446/src/IntermediatePython/009-Threading/sem1.py",
+		"/Users/rick446/src/IntermediatePython/006-NumPy/find_unique_rows.py",
+		"/Users/rick446/src/IntermediatePython/008-Pandas/average_price.py",
+		"/Users/rick446/src/IntermediatePython/008-Pandas/minmaxmed.py",
+		"/Users/rick446/src/IntermediatePython/008-Pandas/date_filter.py",
+		"/Users/rick446/src/IntermediatePython/004-Testing/test9.py",
+		"/Users/rick446/src/IntermediatePython/004-Testing/testa.py",
+		"/Users/rick446/src/IntermediatePython/show-pdb.py",
+		"/Users/rick446/src/IntermediatePython/004-Testing/show-pdb.py",
+		"/Users/rick446/src/IntermediatePython/004-Testing/test4.py",
+		"/Users/rick446/src/IntermediatePython/004-Testing/test8.py",
+		"/Users/rick446/src/IntermediatePython/003-ContextManagers/xml-gen2.py",
+		"/Users/rick446/src/IntermediatePython/002-GeneratorsAndIterators/tree-print.py",
+		"/Users/rick446/src/IntermediatePython/001-AdvancedDataTypesAndFunctionalProgramming/counter.py",
+		"/Users/rick446/src/hypothio/hypothio/commands/cleanup.py",
+		"/Users/rick446/src/hypothio/setup.py",
+		"/Users/rick446/src/hypothio/hypothio/commands/optimize.py",
+		"/Users/rick446/src/IntermediatePython/.git/rebase-merge/git-rebase-todo",
+		"/Users/rick446/src/hypothio/hypothio/ssqs.py",
+		"/Users/rick446/src/hypothio/hypothio/script.py",
+		"/Users/rick446/src/hypothio/hypothio/supply/simple.py",
+		"/Users/rick446/src/hypothio/import-sb2.bash",
+		"/Users/rick446/lambda/build-packages.bash",
+		"/Users/rick446/lambda/requirements.txt",
+		"/Users/rick446/src/hypothio/hypothio/simulation.py",
+		"/Users/rick446/src/hypothio/hypothio/demand.py",
+		"/Users/rick446/src/hypothio/config/sb-config.ini",
+		"/Users/rick446/src/hypothio/config/sb-client-config.py",
+		"/Users/rick446/src/hypothio/hypothio/lambda_function.py",
+		"/Users/rick446/src/hypothio/hypothio/optimize.py",
+		"/Users/rick446/src/hypothio/hypothio/commands/model.py",
+		"/Users/rick446/src/hypothio/hypothio/commands/import.py",
+		"/Users/rick446/src/hypothio/hypothio/main.py",
+		"/Users/rick446/src/hypothio/hypothio/commands/init.py",
+		"/Users/rick446/src/hypothio/hypothio/commands/hello.py",
+		"/Users/rick446/src/hypothio/hypothio/commands/simulate.py",
+		"/Users/rick446/src/hypothio/hypothio/commands/shell.py",
+		"/Users/rick446/lambda/prep-build-server.bash",
+		"/Users/rick446/src/hypothio/lambda_function.py",
+		"/Users/rick446/.ssh/config",
+		"/Users/rick446/src/hypothio/hypothio/tables.py",
+		"/Users/rick446/src/hypothio/hypothio/stats.py",
+		"/Users/rick446/lambda/build-bundle.bash",
+		"/Users/rick446/src/casava/MANIFEST.in",
+		"/Users/rick446/src/casava/setup.py",
+		"/Users/rick446/src/hypothio/requirements.txt",
+		"/Users/rick446/src/hypothio/hypothio/mappers.py",
+		"/Users/rick446/src/hypothio/hypothio/lambda_func.py",
+		"/Users/rick446/src/hypothio/import-sb.bash",
+		"/Users/rick446/src/hypothio/hypothio/supply/markov.py",
+		"/Users/rick446/src/hypothio/sb-data-download/leadtimebuckets.csv",
+		"/Users/rick446/src/hypothio/hypothio/util.py",
+		"/Users/rick446/src/hypothio/sb-data-download/forecast-2016-04-01.csv",
+		"/Users/rick446/src/hypothio-orig/node_modules/fast-csv/.idea/jsLibraryMappings.xml",
+		"/Users/rick446/src/hypothio/hypothio/command.py",
+		"/Users/rick446/src/BrightLink/eas/.git/rebase-merge/git-rebase-todo",
+		"/Users/rick446/src/hypothio/hypothio/supply.py",
+		"/Users/rick446/src/hypothio/hypothio/validators.py",
+		"/Users/rick446/src/hypothio/hypothio/supply/__init__.py",
+		"/Users/rick446/src/hypothio/hypothio/markov.py",
+		"/Users/rick446/src/hypothio/hypothio/supply/classify.py",
+		"/Users/rick446/src/hypothio/config/hmw-config.ini",
+		"/Users/rick446/src/hypothio/shellhelpers.py",
+		"/Users/rick446/.netrc",
+		"/Users/rick446/src/hypothio/hypothio/edi.py",
+		"/Users/rick446/src/hypothio/config/hmw-client-config.py",
+		"/Users/rick446/src/hypothio/.gitignore",
+		"/Users/rick446/src/hypothio/config/import-sb.bash",
+		"/Users/rick446/src/hypothio/sb-data-download/products2016-03-29.csv",
+		"/Users/rick446/src/hypothio/edi-example-po.txt",
+		"/Users/rick446/src/hypothio/EDI PO Example.bak",
+		"/Users/rick446/src/BrightLink/eas/.git/COMMIT_EDITMSG",
+		"/Users/rick446/Downloads/hw1-3.d5dee9b3cf95.py",
+		"/Users/rick446/Downloads/hw1-2.738428ff584a.py",
+		"/Users/rick446/Library/Application Support/Sublime Text 2/Packages/User/Flake8Lint.sublime-settings",
+		"/Users/rick446/src/hypothio/hypothio/shellhelpers.py",
+		"/Users/rick446/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/rick446/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/rick446/src/hypothio/hypothio/tests.py",
+		"/Users/rick446/src/hypothio/hypothio/tables_from_csv.py",
+		"/Users/rick446/.virtualenvs/hydrian/lib/python2.7/site-packages/formencode/api.py",
+		"/Users/rick446/Google Drive/Data for Rick/SalesTransactionsResults735.csv",
+		"/Users/rick446/Google Drive/Data for Rick/ReceiptDataResults406.csv"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"def",
+			"svg_data",
+			"slow_log",
+			"unit_trans",
+			"min_step",
+			"lot_size",
+			"demand_model",
+			"send_message(",
+			"json",
+			"message",
+			"_message",
+			"input",
+			"send_m",
+			"demand_model",
+			"delay_days",
+			"message",
+			"items_hyp_",
+			".get[",
+			"',",
+			".get",
+			"1",
+			"CHUNKING",
+			"delay_days",
+			"service",
+			"=",
+			"n_trials",
+			".pop",
+			"params.",
+			"hist_order_size",
+			"cluster",
+			"==",
+			"author",
+			"lead_time_bucket",
+			"optimize",
+			"PrecalcModel",
+			"item_data.",
+			"item_data",
+			"item_data.",
+			"optimize",
+			"transition_matrix",
+			"alpha",
+			"decay",
+			"alpha",
+			"_alpha_",
+			"smooth_daily_orders",
+			"Foreign",
+			"facilit",
+			"warn_on",
+			"warn_on_",
+			"upsert",
+			"null",
+			"foreign",
+			"fix_",
+			"byday",
+			"dtstart",
+			"### ",
+			"pdb",
+			"items",
+			"foreign",
+			"drop",
+			"mappings",
+			"qty_on_hand",
+			"qty_on_",
+			"()",
+			"Number",
+			"args['<model_type>']",
+			"begin",
+			"$IMPORT",
+			"IMPORT",
+			"Import",
+			"IMPORT",
+			"Import",
+			"IMPORT",
+			"hello",
+			"here",
+			"%(",
+			"begin",
+			"_validate_row",
+			"args",
+			"_import_csv",
+			"(Import)",
+			"{}",
+			"command_name",
+			"class ",
+			"client",
+			"fix-fks",
+			"args",
+			"decay",
+			"begin",
+			"_pdf ",
+			"_pdf",
+			"lt_pdf",
+			"hist",
+			"ct",
+			"val",
+			"receipts",
+			"res",
+			"alpha_smooth",
+			"stmt",
+			"markov.",
+			"supply.",
+			"delay",
+			"open(",
+			"import_csv",
+			"annual_velocity",
+			"def simulate",
+			"simulate(",
+			"ordqtyin",
+			"hyp-import --upsert -c config/sb-config.ini",
+			"2016-03-31",
+			"ftp://hydrian:ftp@sunbelt@sminc.net/Sunbelt Daily Data Uploads/",
+			"marginfloor",
+			"_import_",
+			"_import_ca",
+			"update",
+			"lead_times",
+			"pred_lead_times",
+			"lead_times",
+			"receipts.",
+			"lead_time",
+			"database",
+			"lead_time",
+			"ipdb",
+			"update_stats",
+			"kit_map",
+			"random",
+			"sales_",
+			"casava"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"_",
+			"item key\nvendor\npurchase date\nreceipt date\nqty\nunit cost\ntransaction number\nship-to facility\ndrop shipment\nterms\ncarrier\ninbound freight cost\nmemo\n",
+			"${g.settings['brand.name']}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/rick446/src/Classes/Nutanix-AdvancedPython/examples/Networking/cgi-bin/bash_example.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "examples/Testing/test4.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								383
+							]
+						],
+						"settings":
+						{
+							"git_gutter_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "examples/Testing/test7.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								448,
+								448
+							]
+						],
+						"settings":
+						{
+							"git_gutter_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/rick446/src/Classes/Nutanix-AdvancedPython/ptest.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "IntermediatePython.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pte",
+				"Nutanix-AdvancedPython/ptest.py"
+			],
+			[
+				"print_json",
+				"Nutanix-IntermediatePython/examples/Networking/cgi-bin/print_json.py"
+			],
+			[
+				"rint_re",
+				"examples/Networking/cgi-bin/print_request.py"
+			],
+			[
+				"queue",
+				"examples/Threading/queue-test.py"
+			],
+			[
+				"print_ti",
+				"010-Multiprocessing/print_time.py"
+			],
+			[
+				"print_t",
+				"009-Threading/print_time.py"
+			],
+			[
+				"index",
+				"FunWithFlask/templates/index.html"
+			],
+			[
+				"grap",
+				"FunWithFlask/graphit.py"
+			],
+			[
+				"index.",
+				"FunWithFlask/templates/index.html"
+			],
+			[
+				"rest",
+				"011-Networking/rest-api.py"
+			],
+			[
+				"ss",
+				"FunWithFlask/ssqs.py"
+			],
+			[
+				"rest-",
+				"FunWithFlask/rest-api.py"
+			],
+			[
+				"show-",
+				"show-pdb.py"
+			],
+			[
+				"demand.py",
+				"hypothio/hypothio/demand.py"
+			],
+			[
+				"ssq",
+				"hypothio/hypothio/ssqs.py"
+			],
+			[
+				"hyp/scrip",
+				"hypothio/hypothio/script.py"
+			],
+			[
+				"simple",
+				"hypothio/hypothio/supply/simple.py"
+			],
+			[
+				"demand.p",
+				"hypothio/hypothio/demand.py"
+			],
+			[
+				"imp",
+				"hypothio/import-sb2.bash"
+			],
+			[
+				"import-sb",
+				"hypothio/import-sb2.bash"
+			],
+			[
+				"supply.py",
+				"hypothio/hypothio/supply/simple.py"
+			],
+			[
+				"demand",
+				"hypothio/hypothio/demand.py"
+			],
+			[
+				"op",
+				"hypothio/hypothio/optimize.py"
+			],
+			[
+				"sim",
+				"hypothio/hypothio/commands/simulate.py"
+			],
+			[
+				"optim",
+				"hypothio/hypothio/optimize.py"
+			],
+			[
+				"sb-cli",
+				"hypothio/config/sb-client-config.py"
+			],
+			[
+				"setup.p",
+				"hypothio/setup.py"
+			],
+			[
+				"import.",
+				"hypothio/hypothio/commands/import.py"
+			],
+			[
+				"mod",
+				"hypothio/hypothio/commands/model.py"
+			],
+			[
+				"clean",
+				"hypothio/hypothio/commands/cleanup.py"
+			],
+			[
+				"import-",
+				"hypothio/import-sb2.bash"
+			],
+			[
+				"optimize.p",
+				"hypothio/hypothio/optimize.py"
+			],
+			[
+				"sb-con",
+				"hypothio/config/sb-config.ini"
+			],
+			[
+				"simul",
+				"hypothio/hypothio/simulation.py"
+			],
+			[
+				"com/opt",
+				"hypothio/hypothio/commands/optimize.py"
+			],
+			[
+				"com/sim",
+				"hypothio/hypothio/commands/simulate.py"
+			],
+			[
+				"build-bun",
+				"lambda/build-bundle.bash"
+			],
+			[
+				"lambda",
+				"hypothio/hypothio/lambda_function.py"
+			],
+			[
+				"mport-sb2",
+				"hypothio/import-sb2.bash"
+			],
+			[
+				"lam",
+				"hypothio/lambda_function.py"
+			],
+			[
+				"req",
+				"lambda/requirements.txt"
+			],
+			[
+				"require",
+				"lambda/requirements.txt"
+			],
+			[
+				"pre-",
+				"lambda/prep-build-server.bash"
+			],
+			[
+				"build-bu",
+				"lambda/build-bundle.bash"
+			],
+			[
+				"build-",
+				"lambda/build-packages.bash"
+			],
+			[
+				"optimize",
+				"hypothio/hypothio/optimize.py"
+			],
+			[
+				"build-p",
+				"lambda/build-packages.bash"
+			],
+			[
+				"simula",
+				"hypothio/hypothio/simulation.py"
+			],
+			[
+				"tables",
+				"hypothio/hypothio/tables.py"
+			],
+			[
+				"stats",
+				"hypothio/hypothio/stats.py"
+			],
+			[
+				"simple.",
+				"hypothio/hypothio/supply/simple.py"
+			],
+			[
+				"build-pa",
+				"lambda/build-packages.bash"
+			],
+			[
+				"lamb",
+				"hypothio/lambda_function.py"
+			],
+			[
+				"prep",
+				"lambda/prep-build-server.bash"
+			],
+			[
+				"requ",
+				"lambda/requirements.txt"
+			],
+			[
+				"supply/simpl",
+				"hypothio/hypothio/supply/simple.py"
+			],
+			[
+				"import-s",
+				"hypothio/import-sb.bash"
+			],
+			[
+				"command/",
+				"hypothio/hypothio/commands/cleanup.py"
+			],
+			[
+				"script",
+				"hypothio/hypothio/script.py"
+			],
+			[
+				"simp",
+				"hypothio/hypothio/supply/simple.py"
+			],
+			[
+				"dem",
+				"hypothio/hypothio/demand.py"
+			],
+			[
+				"table",
+				"hypothio/hypothio/tables.py"
+			],
+			[
+				"optimiz",
+				"hypothio/hypothio/optimize.py"
+			],
+			[
+				"stats.",
+				"hypothio/hypothio/stats.py"
+			],
+			[
+				"impor",
+				"hypothio/import-sb2.bash"
+			],
+			[
+				"simpl",
+				"hypothio/hypothio/supply/simple.py"
+			],
+			[
+				"optimize.py",
+				"hypothio/hypothio/optimize.py"
+			],
+			[
+				"command/mod",
+				"hypothio/hypothio/commands/model.py"
+			],
+			[
+				"supply/mark",
+				"hypothio/hypothio/supply/markov.py"
+			],
+			[
+				"supply/simp",
+				"hypothio/hypothio/supply/simple.py"
+			],
+			[
+				"command/cl",
+				"hypothio/hypothio/commands/cleanup.py"
+			],
+			[
+				"leadtime",
+				"hypothio/sb-data-download/leadtimebuckets.csv"
+			],
+			[
+				"util",
+				"hypothio/hypothio/util.py"
+			],
+			[
+				"sb-",
+				"hypothio/config/sb-client-config.py"
+			],
+			[
+				"import.py",
+				"hypothio/hypothio/commands/import.py"
+			],
+			[
+				"import.p",
+				"hypothio/hypothio/commands/import.py"
+			],
+			[
+				"forec",
+				"hypothio/sb-data-download/forecast-2016-04-01.csv"
+			],
+			[
+				"hello",
+				"hypothio/hypothio/commands/hello.py"
+			],
+			[
+				"mappers",
+				"hypothio/hypothio/mappers.py"
+			],
+			[
+				"mapping",
+				"hypothio-orig/node_modules/fast-csv/.idea/jsLibraryMappings.xml"
+			],
+			[
+				"hp/setup",
+				"hypothio/setup.py"
+			],
+			[
+				"stats.p",
+				"hypothio/hypothio/stats.py"
+			],
+			[
+				"import",
+				"hypothio/import-sb.bash"
+			],
+			[
+				"scrip",
+				"hypothio/hypothio/script.py"
+			],
+			[
+				"sup/mark",
+				"hypothio/hypothio/supply/markov.py"
+			],
+			[
+				"markov.",
+				"hypothio/hypothio/markov.py"
+			],
+			[
+				"stats.py",
+				"hypothio/hypothio/stats.py"
+			],
+			[
+				"supply/__",
+				"hypothio/hypothio/supply/__init__.py"
+			],
+			[
+				"supply.",
+				"hypothio/hypothio/supply.py"
+			],
+			[
+				"sup",
+				"hypothio/hypothio/supply.py"
+			],
+			[
+				"util.p",
+				"hypothio/hypothio/util.py"
+			],
+			[
+				"hyp/deman",
+				"hypothio/hypothio/demand.py"
+			],
+			[
+				"tab",
+				"hypothio/hypothio/tables.py"
+			],
+			[
+				"hmw-conf",
+				"hypothio/config/hmw-config.ini"
+			],
+			[
+				"config/s",
+				"hypothio/config/sb-config.ini"
+			],
+			[
+				"validat",
+				"hypothio/hypothio/validators.py"
+			],
+			[
+				"supply",
+				"hypothio/hypothio/supply.py"
+			],
+			[
+				"impo",
+				"hypothio/import-sb.bash"
+			],
+			[
+				"shellh",
+				"hypothio/shellhelpers.py"
+			],
+			[
+				"edi.p",
+				"hypothio/hypothio/edi.py"
+			],
+			[
+				"config/sb",
+				"hypothio/config/sb-config.ini"
+			],
+			[
+				"impor-",
+				"hypothio/import-sb.bash"
+			],
+			[
+				"hypothio/ut",
+				"hypothio/hypothio/util.py"
+			],
+			[
+				"markov",
+				"hypothio/hypothio/markov.py"
+			],
+			[
+				"mark",
+				"hypothio/hypothio/markov.py"
+			],
+			[
+				"hmw-confi",
+				"hypothio/config/hmw-config.ini"
+			],
+			[
+				"configsb",
+				"hypothio/config/sb-config.ini"
+			],
+			[
+				"hmw-cli",
+				"hypothio/config/hmw-client-config.py"
+			],
+			[
+				"config/",
+				"hypothio/config/sb-client-config.py"
+			],
+			[
+				"produc-",
+				"hypothio/sb-data-download/products2016-03-29.csv"
+			],
+			[
+				"validators",
+				"hypothio/hypothio/validators.py"
+			],
+			[
+				"sb-co",
+				"hypothio/config/sb-config.ini"
+			],
+			[
+				"edi-",
+				"hypothio/edi-example-po.txt"
+			],
+			[
+				"edi",
+				"hypothio/EDI PO Example.bak"
+			],
+			[
+				"mapper",
+				"hypothio/hypothio/mappers.py"
+			],
+			[
+				"hmw-con",
+				"hypothio/config/hmw-config.ini"
+			],
+			[
+				"stat",
+				"hypothio/hypothio/stats.py"
+			],
+			[
+				"tables_fromc",
+				"hypothio/hypothio/tables_from_csv.py"
+			],
+			[
+				"hyp/val",
+				"hypothio/hypothio/validators.py"
+			],
+			[
+				"client-con",
+				"hypothio/data/Client HMW/client-config.py"
+			],
+			[
+				"tes.",
+				"hypothio/test.py"
+			],
+			[
+				"tables.p",
+				"hypothio/hypothio/tables.py"
+			],
+			[
+				"m_com",
+				"social123-api/s123/model/m_company.py"
+			],
+			[
+				"soctasks",
+				"social123-api/s123/lib/tasks.py"
+			],
+			[
+				"tasks",
+				"scommon/sevent/tasks.py"
+			],
+			[
+				"soci/main",
+				"social123-api/s123/main.py"
+			],
+			[
+				"scom/sfi/vi",
+				"scommon/sfile/views.py"
+			],
+			[
+				"v_api",
+				"social123-api/s123/views/v_api.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/src/AppliedSilver.sublime-project"
+			],
+			[
+				"int",
+				"/Users/rick446/src/IntermediatePython/IntermediatePython.sublime-project"
+			],
+			[
+				"sdepl",
+				"/Users/rick446/src/sdeploy/sdeploy/sdeploy.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
